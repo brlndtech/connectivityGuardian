@@ -1,0 +1,223 @@
+-----> Start ping scan 18-03-2021-17-29
+t.co : Is alive
+1.1.1.1 : Is alive
+1.0.0.1 : Is alive
+192.168.130.135 # va échouer (dans le but du test) : Request timed out
+192.168.130.134 # va échouer (dans le but du test) : Request timed out
+google.com : Is alive
+8.8.8.8 : Is alive
+8.8.4.4 : Is alive
+<----- End 18-03-2021-17-29 
+
+-----> Start ping scan 18-03-2021-17-30
+t.co : Is alive
+1.1.1.1 : Is alive
+1.0.0.1 : Is alive
+192.168.130.134 : Is alive
+google.com : Is alive
+8.8.8.8 : Is alive
+8.8.4.4 : Is alive
+<----- End 18-03-2021-17-30 
+
+-----> Start ping scan 18-03-2021-17-31
+t.co : Is alive
+1.1.1.1 : Is alive
+1.0.0.1 : Is alive
+192.168.130.134 : Is alive
+google.com : Is alive
+8.8.8.8 : Is alive
+8.8.4.4 : Is alive
+<----- End 18-03-2021-17-31 
+
+-----> Start ping scan 18-03-2021-17-32
+t.co : Is alive
+1.1.1.1 : Is alive
+1.0.0.1 : Is alive
+192.168.130.134 : Is alive
+192.168.130.30 : Request timed out
+google.com : Is alive
+8.8.8.8 : Is alive
+8.8.4.4 : Is alive
+<----- End 18-03-2021-17-32 
+
+-----> Start ping scan 18-03-2021-17-43
+t.co : Is alive
+1.1.1.1 : Is alive
+1.0.0.1 : Is alive
+192.168.130.134 : Is alive
+192.168.130.30 : Request timed out
+192.168.130.1 : Request timed out
+10.0.0.1 : Request timed out
+google.com : Is alive
+8.8.8.8 : Is alive
+8.8.4.4 : Is alive
+<----- End 18-03-2021-17-43 
+
+-----> Start ping scan 19-03-2021-15-21
+t.co : Is alive
+1.1.1.1 : Is alive
+1.0.0.1 : Is alive
+192.168.130.2 : Is alive
+10.0.0.1 : Request timed out
+google.com : Is alive
+8.8.8.8 : Is alive
+8.8.4.4 : Is alive
+<----- End 19-03-2021-15-21 
+
+-----> Start ping scan 19-03-2021-15-23
+t.co : Is alive
+1.1.1.1 : Is alive
+1.0.0.1 : Is alive
+192.168.130.12 : Request timed out
+google.com : Is alive
+8.8.8.8 : Is alive
+8.8.4.4 : Is alive
+<----- End 19-03-2021-15-23 
+
+-----> Start ping scan 19-03-2021-15-26
+t.co : Is alive
+1.1.1.1 : Is alive
+1.0.0.1 : Is alive
+192.168.130.12 : Request timed out
+google.com : Is alive
+8.8.8.8 : Is alive
+8.8.4.4 : Is alive
+<----- End 19-03-2021-15-26 
+
+-----> Start ping scan 19-03-2021-15-27
+t.co : Is alive
+1.1.1.1 : Is alive
+1.0.0.1 : Is alive
+192.168.130.12 : Request timed out
+google.com : Is alive
+8.8.8.8 : Is alive
+8.8.4.4 : Is alive
+<----- End 19-03-2021-15-27 
+
+-----> Start ping scan 19-03-2021-15-34
+t.co : Is alive
+1.1.1.1 : Is alive
+1.0.0.1 : Is alive
+192.168.130.12 : Request timed out
+google.com : Is alive
+8.8.8.8 : Is alive
+8.8.4.4 : Is alive
+<----- End 19-03-2021-15-34 
+
+-----> Start ping scan 19-03-2021-15-44
+t.co : Is alive
+1.1.1.1 : Is alive
+1.0.0.1 : Is alive
+192.168.130.12 : Request timed out
+google.com : Is alive
+8.8.8.8 : Is alive
+8.8.4.4 : Is alive
+<----- End 19-03-2021-15-44 
+
+-----> Start ping scan 19-03-2021-15-47
+t.co : Is alive
+1.1.1.1 : Is alive
+1.0.0.1 : Is alive
+192.168.130.12 : Request timed out
+google.com : Is alive
+8.8.8.8 : Is alive
+8.8.4.4 : Is alive
+<----- End 19-03-2021-15-47 
+
+-----> Start ping scan 19-03-2021-15-51
+t.co : Is alive
+1.1.1.1 : Is alive
+1.0.0.1 : Is alive
+192.168.130.12 : Request timed out
+google.com : Is alive
+8.8.8.8 : Is alive
+8.8.4.4 : Is alive
+<----- End 19-03-2021-15-51 
+
+-----> Start ping scan 19-03-2021-16-14
+t.co : Is alive
+1.1.1.1 : Is alive
+1.0.0.1 : Is alive
+192.168.130.12 : Request timed out
+google.com : Is alive
+8.8.8.8 : Is alive
+8.8.4.4 : Is alive
+<----- End 19-03-2021-16-14 
+
+-----> Start ping scan 20-03-2021-07-26
+t.co : Is alive
+1.1.1.1 : Is alive
+1.0.0.1 : Is alive
+192.168.130.12 : Request timed out
+google.com : Is alive
+8.8.8.8 : Is alive
+8.8.4.4 : Is alive
+<----- End 20-03-2021-07-26 
+
+-----> Start ping scan 20-03-2021-07-26
+t.co : Is alive
+1.1.1.1 : Is alive
+1.0.0.1 : Is alive
+192.168.130.12 : Request timed out
+google.com : Is alive
+8.8.8.8 : Is alive
+8.8.4.4 : Is alive
+<----- End 20-03-2021-07-26 
+
+-----> Start ping scan 20-03-2021-07-29
+t.co : Is alive
+1.1.1.1 : Is alive
+1.0.0.1 : Is alive
+192.168.130.12 : Request timed out
+google.com : Is alive
+8.8.8.8 : Is alive
+8.8.4.4 : Is alive
+<----- End 20-03-2021-07-29 
+
+-----> Start ping scan 20-03-2021-07-34
+<----- End 20-03-2021-07-34 
+
+-----> Start ping scan 20-03-2021-07-35
+t.co : Is alive
+1.1.1 : Request timed out
+1.0.0.1 : Is alive
+192.168.130.12 : Request timed out
+google.com : Is alive
+8.8.8.8 : Is alive
+192.168.145.3 : Request timed out
+8.8.4.4 : Is alive
+<----- End 20-03-2021-07-35 
+
+-----> Start ping scan 20-03-2021-07-36
+t.co : Is alive
+1.1.1 : Request timed out
+1.0.0.1 : Is alive
+192.168.130.12 : Request timed out
+google.com : Is alive
+8.8.8.8 : Is alive
+192.168.145.3 : Request timed out
+8.8.4.4 : Is alive
+<----- End 20-03-2021-07-37 
+
+-----> Start ping scan 20-03-2021-07-39 
+t.co : Is alive
+1.1.1 : Request timed out
+1.0.0.1 : Is alive
+192.168.130.12 : Request timed out
+google.com : Is alive
+8.8.8.8 : Is alive
+192.168.145.3 : Request timed out
+8.8.4.4 : Is alive
+<----- End 20-03-2021-07-39 
+
+-----> Start ping scan 20-03-2021-07-41 
+t.co : Is alive
+1.1.1 : Request timed out
+1.0.0.1 : Is alive
+192.168.130.12 : Request timed out
+google.com : Is alive
+8.8.8.8 : Is alive
+192.168.145.3 : Request timed out
+8.8.4.4 : Is alive
+<----- End 20-03-2021-07-41 
+
